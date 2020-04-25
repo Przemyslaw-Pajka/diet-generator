@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diet-generator/static/css/main.f99f1587.chunk.css",
+    "main.js": "/diet-generator/static/js/main.b9b6eb92.chunk.js",
+    "main.js.map": "/diet-generator/static/js/main.b9b6eb92.chunk.js.map",
+    "runtime-main.js": "/diet-generator/static/js/runtime-main.88f7cfe8.js",
+    "runtime-main.js.map": "/diet-generator/static/js/runtime-main.88f7cfe8.js.map",
+    "static/js/2.de0c3c6a.chunk.js": "/diet-generator/static/js/2.de0c3c6a.chunk.js",
+    "static/js/2.de0c3c6a.chunk.js.map": "/diet-generator/static/js/2.de0c3c6a.chunk.js.map",
+    "index.html": "/diet-generator/index.html",
+    "precache-manifest.42a7b98f27b214adef9f5e805d981747.js": "/diet-generator/precache-manifest.42a7b98f27b214adef9f5e805d981747.js",
+    "service-worker.js": "/diet-generator/service-worker.js",
+    "static/css/main.f99f1587.chunk.css.map": "/diet-generator/static/css/main.f99f1587.chunk.css.map",
+    "static/js/2.de0c3c6a.chunk.js.LICENSE.txt": "/diet-generator/static/js/2.de0c3c6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f7cfe8.js",
+    "static/js/2.de0c3c6a.chunk.js",
+    "static/css/main.f99f1587.chunk.css",
+    "static/js/main.b9b6eb92.chunk.js"
+  ]
+}
