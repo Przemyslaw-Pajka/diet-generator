@@ -1,0 +1,13 @@
+.mealsList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+@media screen and (min-width: 600px) {
+    .mealsList {
+        display:block;
+    }
+}

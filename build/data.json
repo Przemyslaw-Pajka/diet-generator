@@ -1,0 +1,1074 @@
+{
+  "sniadanie": {
+    "posilki": [
+      {
+        "nazwa": "Omlet ze szpinakiem, awokado i serem feta",
+        "kcal": 540,
+        "waga": "360 g",
+        "wartosci": {
+          "b": 30.59,
+          "t": 43.21,
+          "w": 9.46
+        },
+        "skladniki": {
+          "Jaja kurze całe": "160 g",
+          "Awokado": "70 g",
+          "Szpinak": "50 g",
+          "Ser typu Feta": "40 g",
+          "Mleko krowie 1.5%": "20 ml",
+          "Olej rzepakowy": "10 g",
+          "Szczypiorek": "10 g"
+        }
+      },
+      {
+        "nazwa": "Omlet z brokułami",
+        "kcal": 331,
+        "waga": "326 g",
+        "wartosci": {
+          "b": 17.84,
+          "t": 19.57,
+          "w": 22.28
+        },
+        "skladniki": {
+          "Jogurt naturalny 2%": "120 g",
+          "Brokuły": "100 g",
+          "Jaja kurze całe": "jedno klasy L (56 g)",
+          "Mleko krowie 1,5%": "20 ml",
+          "Olej rzepakowy": "1 łyżka (10 g)",
+          "Musztarda": "10 g",
+          "Bazylia (suszona)": "1 łyżeczka (10 g)"
+        }
+      },
+      {
+        "nazwa": "Sałatka z awokado i kurczakiem (z chlebem)",
+        "kcal": 1098,
+        "waga": "915 g",
+        "wartosci": {
+          "b": 47.37,
+          "t": 66.51,
+          "w": 88.56
+        },
+        "skladniki": {
+          "Awokado": "210 g",
+          "Pomidory koktajlowe": "180 g",
+          "Sałata masłowa": "150 g",
+          "Filet z piersi kurczaka": "150 g",
+          "Chleb żytni": "3x jedna kromka (105 g)",
+          "Cebula czerwona": "90 g",
+          "Oliwa z oliwek": "30 g"
+        }
+      },
+      {
+        "nazwa": "Kanapki z szynką z indyka, sałatą i pomidorami",
+        "kcal": 379,
+        "waga": "340 g",
+        "wartosci": {
+          "b": 14.85,
+          "t": 11.05,
+          "w": 61.28
+        },
+        "skladniki": {
+          "Pomidory": "1 sztuka (170 g)",
+          "Chleb żytni": "3 kromki (105 g)",
+          "Szynka z indyka": "3 plasterki (40 g)",
+          "Sałata": "3 liście (15 g)",
+          "Masło": "10 g"
+        }
+      },
+      {
+        "nazwa": "Koktajl z bananem, pomarańczą i kiwi",
+        "kcal": 274,
+        "waga": "650 g",
+        "wartosci": {
+          "b": 4.48,
+          "t": 2.69,
+          "w": 63.43
+        },
+        "skladniki": {
+          "Woda": "250 ml",
+          "Pomarańcze": "jedna średnia sztuka (200 g)",
+          "Banan": "120 g",
+          "Kiwi": "jedna sztuka (75 g)",
+          "Nasiona chia": "5 g"
+        }
+      },
+      {
+        "nazwa": "Koktajl z borówek",
+        "kcal": 193,
+        "waga": "355 g",
+        "wartosci": {
+          "b": 2.05,
+          "t": 4.05,
+          "w": 39.7
+        },
+        "skladniki": {
+          "Mleko ryżowe": "250 ml",
+          "Borówka amerykańska": "100 g",
+          "Nasiona chia": "5 g"
+        }
+      },
+      {
+        "nazwa": "Koktajl melonowy z imbirem",
+        "kcal": 174,
+        "waga": "358g",
+        "wartosci": {
+          "b": 2.09,
+          "t": 3.26,
+          "w": 35.71
+        },
+        "skladniki": {
+          "Mleko ryżowe": "1 szklanka (250 ml)",
+          "Melon": "100 g",
+          "Amarantus ekspandowany": "2 łyżki (6 g)",
+          "Imbir": "2 g"
+        }
+      },
+      {
+        "nazwa": "Placuszki bananowe",
+        "kcal": 625,
+        "waga": "400g",
+        "wartosci": {
+          "b": 21.95,
+          "t": 21.57,
+          "w": 89.7
+        },
+        "skladniki": {
+          "Banan": "2 sztuki (240 g)",
+          "Jaja kurze całe": "2 sztuki (100 g)",
+          "Mąka pszenna pełnoziarnista": "2 łyżki (50 g)",
+          "Olej rzepakowy": "jedna łyżka (10 g)"
+        }
+      },
+      {
+        "nazwa": "Kanapka z serem twarogowym",
+        "kcal": 504,
+        "waga": "440g",
+        "wartosci": {
+          "b": 30,
+          "t": 9.68,
+          "w": 83.08
+        },
+        "skladniki": {
+          "Serek twarogowy ziarnisty": "4x dwie łyżki (160 g)",
+          "Chleb żytni": "4x jedna kromka (140 g)",
+          "Rzodkiewka": "4x dwie sztuki (120 g)",
+          "Szczypiorek": "4x 1 łyżka pokrojonego (20 g)"
+        }
+      },
+      {
+        "nazwa": "Naleśnik z dżemem (wersja bezglutetnowa)",
+        "kcal": 690,
+        "waga": "352g",
+        "wartosci": {
+          "b": 11.69,
+          "t": 26.25,
+          "w": 102.14
+        },
+        "skladniki": {
+          "Woda": "100 ml",
+          "Dżem morelowy niskosłodzony": "3 łyżki (100 g)",
+          "Mąka kukurydziana": "6 łyżek stołowych (72 g)",
+          "Jaja kurze całe": "1 sztuka (50 g)",
+          "Olej rzepakowy": "Łyżka stołowa (20 g)",
+          "Cukier": "2 łyżeczki (10 g)"
+        }
+      },
+      {
+        "nazwa": "Jaglanka z jabłkiem i masłem orzechowym",
+        "kcal": 417,
+        "waga": "445 g",
+        "wartosci": {
+          "b": 8.83,
+          "t": 12.55,
+          "w": 70.85
+        },
+        "skladniki": {
+          "Mleko ryżowe": "240 ml",
+          "Jabłko": "150 g",
+          "Płatki jaglane": "40 g",
+          "Masło orzechowe": "15 g"
+        }
+      },
+      {
+        "nazwa": "Jaglanka z burakiem, dynia, jarmużem i granatem",
+        "kcal": 832,
+        "waga": "546g",
+        "wartosci": {
+          "b": 24.76,
+          "t": 11.63,
+          "w": 165.06
+        },
+        "skladniki": {
+          "Dynia": "1 szklanka (210 g)",
+          "Kasza jaglana": "1 szklanka (180 g)",
+          "Burak": "1 sztuka (105 g)",
+          "Granat": "30 g",
+          "Imbir (proszek)": "5 g",
+          "Sól himalajska": "szczypta (5 g)",
+          "Czosnek": "połowa ząbka (3 g)",
+          "Koper ogrodowy": "1/3 łyżki (opcjonalnie)(3g)"
+        }
+      },
+      {
+        "nazwa": "Tropikalne smoothie",
+        "kcal": 608,
+        "waga": "785g",
+        "wartosci": {
+          "b": 4.95,
+          "t": 28.59,
+          "w": 87.98
+        },
+        "skladniki": {
+          "Pomarańcze": "1 duża (250 g)",
+          "Mleko kokosowe (bez cukru)": "1 szklanka (240 ml)",
+          "Banan": "1 duży mrożony (150 g)",
+          "Mango": "pół mango (120 g)",
+          "Olej kokosowy": "1 łyżka (25 g)"
+        }
+      },
+      {
+        "nazwa": "Jabłuszka w cieście",
+        "kcal": 806,
+        "waga": "462",
+        "wartosci": {
+          "b": 22.6,
+          "t": 11.75,
+          "w": 157.7
+        },
+        "skladniki": {
+          "Mąka pszenna typ 500": "2,5 szklanki (350 g)",
+          "Jabłko": "2 jabłka (300 g)",
+          "Mleko krowie 3.2%": "szklanka (250 g)",
+          "Cynamon": "dwie czubate łyżeczki (5g do ciasta i 5g do posypki) (10 g)",
+          "Olej rzepakowy": "1 łyzka (10 g)",
+          "Soda oczyszczona": "łyżeczka (4 g)"
+        }
+      },
+      {
+        "nazwa": "Naleśnik z twarogiem, miodem i rodzynkami",
+        "kcal": 635,
+        "waga": "321g",
+        "wartosci": {
+          "b": 37.63,
+          "t": 19.23,
+          "w": 80.82
+        },
+        "skladniki": {
+          "Ser twarogowy chudy": "100 g",
+          "Jaja kurze całe": "jedna sztuka L (56 g)",
+          "Mleko krowie 1.5%": "50 ml",
+          "Mąka ryżowa": "2 kopiate łyżki (30 g)",
+          "Rodzynki": "2 łyżki (30 g)",
+          "Mąka z ciecierzycy": "2 kopiate łyżki (30 g)",
+          "Miód pszczeli": "pół łyżki (12 g)",
+          "Olej rzepakowy": "1 łyżka (10 g)",
+          "Cukier trzcinowy nierafinowany": "pół łyżeczki (3 g)"
+        }
+      },
+      {
+        "nazwa": "Tosty pełnoziarniste z serem mozarella",
+        "kcal": 613,
+        "waga": "372g",
+        "wartosci": {
+          "b": 34.75,
+          "t": 23.4,
+          "w": 68.86
+        },
+        "skladniki": {
+          "Pieczywo tostowe, grahamowe": "110 g",
+          "Pomidory": "100 g",
+          "Ser mozzarella": "80 g",
+          "Szpinak": "50 g",
+          "Szynka wieprzowa, gotowana": "30 g",
+          "Oregano (suszone)": "2 g"
+        }
+      },
+      {
+        "nazwa": "Kanapki z pesto",
+        "kcal": 826,
+        "waga": "520g",
+        "wartosci": {
+          "b": 20.66,
+          "t": 19.42,
+          "w": 156.86
+        },
+        "skladniki": {
+          "Chleb żytni": "280 g",
+          "Papryka czerwona": "140 g",
+          "Sałata masłowa": "60 g",
+          "Pesto z bazylią": "40 g"
+        }
+      },
+      {
+        "nazwa": "Placki z porem i oliwkami",
+        "kcal": 806,
+        "waga": "564g",
+        "wartosci": {
+          "b": 56.52,
+          "t": 50.68,
+          "w": 36.32
+        },
+        "skladniki": {
+          "Serek twarogowy ziarnisty": "2x 7 łyżek (280 g)",
+          "Jaja kurze całe": "2x 1 szt (112 g)",
+          "Por": "80 g",
+          "Oliwki zielone marynowane konserwowe": "2x 7 szt (40 g)",
+          "Otręby owsiane": "2x 4 łyżki (32 g)",
+          "Olej słonecznikowy": "2x 1 łyżka (20 g)"
+        }
+      },
+      {
+        "nazwa": "Owsianka z bananem, migdałami i suszoną żurawiną",
+        "kcal": 542,
+        "waga": "387 g",
+        "wartosci": {
+          "b": 11.35,
+          "t": 14.59,
+          "w": 96.2
+        },
+        "skladniki": {
+          "Mleko ryżowe": "200 ml",
+          "Banan - jeden mały": "(100 g)",
+          "Płatki owsiane": "6 łyżek stołowych (60 g)",
+          "Migdały": "1 łyżka stołowa (15 g)",
+          "Suszona żurawina": "1 łyżka stołowa (12 g)"
+        }
+      }
+    ]
+  },
+  "obiad": {
+    "posilki": [
+      {
+        "nazwa": "Ryż ze schabem i warzywami",
+        "kcal": 766,
+        "waga": "740g",
+        "wartosci": {
+          "b": 44.73,
+          "t": 28.29,
+          "w": 90.46
+        },
+        "skladniki": {
+          "Pomidory w puszce": "połowa puszki (200 g)",
+          "Cukinia": "połowa sztuki (150 g)",
+          "Schab bez kości": "150 g",
+          "Ryż brązowy": "90 g",
+          "Por": "połowa sztuki (70 g)",
+          "Marchew": "1 sztuka (45 g)",
+          "Pietruszka, korzeń ": "połowa sztuki (25 g)",
+          "Olej rzepakowy ": "10 g"
+        }
+      },
+      {
+        "nazwa": "Placki kukurydziane",
+        "kcal": 890,
+        "waga": "680g",
+        "wartosci": {
+          "b": 37.84,
+          "t": 22.3,
+          "w": 142.58
+        },
+        "skladniki": {
+          "Kukurydza konserwowa": "400 g",
+          "Jaja kurze całe": "160 g",
+          "Mąka kukurydziana": "60 g",
+          "Mleko krowie 1,5%": "60 ml"
+        }
+      },
+      {
+        "nazwa": "Makaron z kurczakiem i brokułem",
+        "kcal": 796,
+        "waga": "628g",
+        "wartosci": {
+          "b": 57.49,
+          "t": 24.97,
+          "w": 92.78
+        },
+        "skladniki": {
+          "Brokuły": "250 g",
+          "Filet z piersi kurczaka": "150 g",
+          "Cebula": "100 g",
+          "Makaron penne (pełnoziarnisty)": "100 g",
+          "Olej rzepakowy": "20 g",
+          "Bazylia (suszona)": "8 g"
+        }
+      },
+      {
+        "nazwa": "Zupa z burakami i fasolką szparagową",
+        "kcal": 411,
+        "waga": "1170g",
+        "wartosci": {
+          "b": 14.61,
+          "t": 17.94,
+          "w": 54.63
+        },
+        "skladniki": {
+          "Pomidory": "3x 1 sztuka (450 g)",
+          "Woda": "3x 1/2 szklanki (300 ml)",
+          "Fasola szparagowa": "150 g",
+          "Burak": "3x 1 mała sztuka (150 g)",
+          "Jogurt naturalny 2%": "3x 1 łyżka (75 g)",
+          "Oliwa z oliwek": "3x 1 łyżeczka (15 g)",
+          "Czosnek": "3x 1 ząbek (15 g)",
+          "Sok cytrynowy": "15 ml"
+        }
+      },
+      {
+        "nazwa": "Soczewica czerwona z indykiem i szparagami",
+        "kcal": 1122,
+        "waga": "1300g",
+        "wartosci": {
+          "b": 86.78,
+          "t": 38.64,
+          "w": 117.64
+        },
+        "skladniki": {
+          "Pomidory w puszce": "400 g",
+          "Szparagi": "300 g",
+          "Polędwica z indyka": "240 g",
+          "Cebula": "200 g",
+          "Soczewica czerwona , nasiona suche": "140 g",
+          "Olej rzepakowy": "20 g"
+        }
+      },
+      {
+        "nazwa": "Risotto z groszkiem i grzybami",
+        "kcal": 361,
+        "waga": "240 g",
+        "wartosci": {
+          "b": 9.78,
+          "t": 11.7,
+          "w": 59.71
+        },
+        "skladniki": {
+          "Pieczarka świeża": "80 g",
+          "Ryż brązowy": "60 g",
+          "Groszek zielony konserwowy bez zalewy": "60 g",
+          "Cebula": "30 g",
+          "Olej rzepakowy": "10 g"
+        }
+      },
+      {
+        "nazwa": "Kurczak chrupiący",
+        "kcal": 921,
+        "waga": "460g",
+        "wartosci": {
+          "b": 57.35,
+          "t": 24.75,
+          "w": 123.7
+        },
+        "skladniki": {
+          "Filet z piersi kurczaka": "200 g",
+          "Ryż brązowy": "100 g",
+          "Jogurt naturalny (grecki)": "100 g",
+          "Płatki kukurydziane bezglutenowe": "50 g",
+          "Olej rzepakowy": "10 g"
+        }
+      },
+      {
+        "nazwa": "Makaron po tajsku z kurczakiem",
+        "kcal": 898,
+        "waga": "579g",
+        "wartosci": {
+          "b": 65.18,
+          "t": 26.89,
+          "w": 101.24
+        },
+        "skladniki": {
+          "Filet z piersi kurczaka": "jedna sztuka (200 g)",
+          "Mieszanka chińska mrożona": "100 g",
+          "Makaron ryżowy": "100 g",
+          "Jaja kurze całe": "1 sztuka (60 g)",
+          "Sos chili słodki": "2 łyżki (30 g)",
+          "Sos sojowy jasny": "2 łyżki (20 g)",
+          "Groszek zielony": "20 g",
+          "Kiełki słonecznika": "2 łyżki (16 g)",
+          "Orzechy arachidowe (ziemne)": "1 łyżka (15 g)",
+          "Olej rzepakowy": "10 g",
+          "Szczypiorek": "pół pęczka (5 g)",
+          "Cukier biały": "pół łyżeczki (2 g)"
+        }
+      },
+      {
+        "nazwa": "Makaron ze szpinakiem i łososiem",
+        "kcal": 1110,
+        "waga": "570g",
+        "wartosci": {
+          "b": 50.88,
+          "t": 33.78,
+          "w": 153.34
+        },
+        "skladniki": {
+          "Szpinak": "200 g",
+          "Makaron ryżowy": "160 g",
+          "Filet z łossia": "160 g",
+          "Suszone pomidory": "28 g",
+          "Natka pietruszki": "12 g",
+          "Olej rzepakowy": "10 g"
+        }
+      },
+      {
+        "nazwa": "Kurczak w cieście",
+        "kcal": 775,
+        "waga": "760g",
+        "wartosci": {
+          "b": 65.89,
+          "t": 12.63,
+          "w": 105.07
+        },
+        "skladniki": {
+          "Filet z piersi kurczaka": "200 g",
+          "Mleko krowie 1.5%": "125 ml",
+          "Ryż brązowy": "100 g",
+          "Woda": "lekko gazowana (100 ml)",
+          "Ogórek": "100 g",
+          "Jogurt naturalny 2%": "2 łyżki (50 g)",
+          "Jaja kurze całe": "jedna sztuka M (50 g)",
+          "Mąka pszenna typ 500": "20 g",
+          "Koper ogrodowy": "15 g"
+        }
+      },
+      {
+        "nazwa": "Burger wołowy",
+        "kcal": 1182,
+        "waga": "506",
+        "wartosci": {
+          "b": 52.32,
+          "t": 75.14,
+          "w": 75.16
+        },
+        "skladniki": {
+          "Mięso mielone wołowe": "200 g",
+          "Bułka do hamburgera z sezamem": "2x 1 sztuka (106 g)",
+          "Pomidory": "2x 1 plasterek (40 g)",
+          "Musztarda": "2x 1 łyżka (40 g)",
+          "Ser żółty królewski light": "2x 1 plaster (40 g)",
+          "Ketchup": "2x 1 łyżka (30 g)",
+          "Cebula czerwona": "2x 1 krążek (20 g)",
+          "Ogórek konserwowy": "2x 1 sztuka (20 g)",
+          "Sałata": "2x 1 liść (10 g)"
+        }
+      },
+      {
+        "nazwa": "Potrawka wołowa z fasolką",
+        "kcal": 709,
+        "waga": "449",
+        "wartosci": {
+          "b": 28.58,
+          "t": 43.09,
+          "w": 58.33
+        },
+        "skladniki": {
+          "Mięso mielone wołowe": "100 g",
+          "Czerwona fasola (konserwowa)": "1/4 puszki (100 g)",
+          "Kukurydza konserwowa": "1/4 puszki (100 g)",
+          "Pomidory w puszce": "1/4 puszki (100 g)",
+          "Chleb żytni": "1 kromka (35 g)",
+          "Olej rzepakowy": "10 g",
+          "Czosnek": "1 ząbek (3 g)",
+          "Mielona papryka chili": "szczypta (1 g)"
+        }
+      },
+      {
+        "nazwa": "Pulpeciki z makaronem",
+        "kcal": 771,
+        "waga": "490g",
+        "wartosci": {
+          "b": 25.38,
+          "t": 38.87,
+          "w": 81.74
+        },
+        "skladniki": {
+          "Pomidory w puszce": "200 g",
+          "Makaron spaghetti, kukurydziano-ryżowy": "70 g",
+          "Mięso mielone wołowe": "70 g",
+          "Cebula": "50 g",
+          "Jaja kurze całe": "jedna mała sztuka (45 g)",
+          "Koncentrat pomidorowy 30%": "1 łyżka (25 g)",
+          "Bułka tarta": "2 łyżki (20 g)",
+          "Olej rzepakowy": "10 g"
+        }
+      },
+      {
+        "nazwa": "Nuggetsy z płatkami kukurydzianymi",
+        "kcal": 730,
+        "waga": "578g",
+        "wartosci": {
+          "b": 88.22,
+          "t": 18.04,
+          "w": 55.58
+        },
+        "skladniki": {
+          "Filet z piersi kurczaka": "300 g",
+          "Jaja kurze całe": "2x 1 sztuka M (112 g)",
+          "Jogurt naturalny 2%": "2x 2 łyżki (100 g)",
+          "Bułka tarta": "2x 2 łyżki (32 g)",
+          "Płatki kukurydziane bezglutenowe": "2x 4 łyżki (24 g)",
+          "Czosnek": "2x 1 ząbek (4 g)",
+          "Sól biała ": "2x szczypta (2 g)",
+          "Pieprz czarny": "2x szczypta (2 g)",
+          "Tymianek suszony": "2x szczypta (2 g)"
+        }
+      }
+    ]
+  },
+  "podwieczorek": {
+    "posilki": [
+      {
+        "nazwa": "Kanapki z pastą z awokado i tuńczyka (wersja lżejsza)",
+        "kcal": 346,
+        "waga": "194g",
+        "wartosci": {
+          "b": 19.58,
+          "t": 13.39,
+          "w": 41.05
+        },
+        "skladniki": {
+          "Chleb żytni": "70 g",
+          "Awokado": " 50 g",
+          "Tuńczyk w oleju": "50 g",
+          "Kiełki brokuła": "12 g",
+          "Koper ogrodowy": "6 g",
+          "Sok cytrynowy": "3 g",
+          "Szczypiorek": "3 g"
+        }
+      },
+      {
+        "nazwa": "Bananowy budyń jaglany z miodem",
+        "kcal": 492,
+        "waga": "445g",
+        "wartosci": {
+          "b": 18.71,
+          "t": 6.86,
+          "w": 90.75
+        },
+        "skladniki": {
+          "Mleko krowie 1.5%": "300 ml",
+          "Kasza jaglana": "75 g",
+          "Banan": "60 g",
+          "Miód pszczeli": "10 g"
+        }
+      },
+      {
+        "nazwa": "Wafle ryżowe z miodem i gruszką",
+        "kcal": 528,
+        "waga": "358g",
+        "wartosci": {
+          "b": 4.98,
+          "t": 10.06,
+          "w": 108.08
+        },
+        "skladniki": {
+          "Gruszka": "2x jedna sztuka (260 g)",
+          "Miód pszczeli": "2x jedna łyżka (48 g)",
+          "Krążki ryżowe": "2x dwie sztuki (40 g)",
+          "Masło": "2x pół łyżeczki (10 g)"
+        }
+      },
+      {
+        "nazwa": "Sałatka z granatem i serem feta",
+        "kcal": 412,
+        "waga": "335",
+        "wartosci": {
+          "b": 14.33,
+          "t": 28.78,
+          "w": 26.64
+        },
+        "skladniki": {
+          "Pomidory": "dwie sztuki (340 g)",
+          "Granat": "100 g",
+          "Ser typu Feta": "100 g",
+          "Rukola": "50 g",
+          "Oliwa z oliwek": "3 łyżki (30 g)",
+          "Nasiona słonecznika": "2 łyżki (20 g)",
+          "Miód pszczeli": "1 łyżka (12 g)",
+          "Musztarda": "1 łyżka (10 g)",
+          "Sok cytrynowy": "1 łyżka (6 g)",
+          "Oregano (suszone)": "1 g"
+        }
+      },
+      {
+        "nazwa": "Koktajl jagodowy",
+        "kcal": 516,
+        "waga": "800g",
+        "wartosci": {
+          "b": 8.78,
+          "t": 14.26,
+          "w": 99.02
+        },
+        "skladniki": {
+          "Mleko ryżowe": "500 ml",
+          "Czarne jagody": "260 g",
+          "Nasiona chia": "20 g",
+          "Amarantus ekspandowany": "20 g"
+        }
+      },
+      {
+        "nazwa": "Zupa z fasoli krem",
+        "kcal": 473,
+        "waga": "359g",
+        "wartosci": {
+          "b": 22.81,
+          "t": 10.97,
+          "w": 80.04
+        },
+        "skladniki": {
+          "Cebula": "1 średnia cebula (90 g)",
+          "Fasola biała, nasiona suche": "80 g",
+          "Ziemniaki": "1 szt. średniej wielkości (60 g)",
+          "Śmietana 18%": "50 g",
+          "Pietruszka, korzeń": "ok. pół pietruszki (30 g)",
+          "Seler, korzeń": "około 1/4 małego korzenia (20 g)",
+          "Marchew": "ok. pół marchwi (20 g)",
+          "Suszone pomidory": "jeden plaster (7 g)",
+          "Czosnek": "pół ząbka (2 g)"
+        }
+      },
+      {
+        "nazwa": "Dorsz gotowany na parze z brokułem",
+        "kcal": 1042,
+        "waga": "1060g",
+        "wartosci": {
+          "b": 73.08,
+          "t": 19.86,
+          "w": 155.36
+        },
+        "skladniki": {
+          "Brokuły": "600 g",
+          "Dorsz świeży, filety bez skóry": "200 g",
+          "Kasza jaglana": "160 g",
+          "Cytryna": "2x połowa (80 g)",
+          "Sezam": "2x 1 łyżka (20 g)"
+        }
+      },
+      {
+        "nazwa": "Płatki ryżowe z bananem",
+        "kcal": 718,
+        "waga": "554g",
+        "wartosci": {
+          "b": 15.9,
+          "t": 4.42,
+          "w": 156.09
+        },
+        "skladniki": {
+          "Banan": "2x 1 średnia sztuka (240 g)",
+          "Mleko krowie 1,5%": "200 ml",
+          "Płatki ryżowe": "2x 4 łyzki (100 g)",
+          "Ksylitol": "2x 1 łyżeczka (14 g)"
+        }
+      },
+      {
+        "nazwa": "Sałatka grecka",
+        "kcal": 478,
+        "waga": "480g",
+        "wartosci": {
+          "b": 16.17,
+          "t": 25.35,
+          "w": 51.87
+        },
+        "skladniki": {
+          "Pomidory": "120 g",
+          "Ogórek": "80 g",
+          "Chleb żytni": "70 g",
+          "Sałata masłowa": "50 g",
+          "Cebula czerwona": "50 g",
+          "Ser typu Feta": "50 g",
+          "Oliwki zielone marynowane, konserwowe": "45 g",
+          "Oliwa z oliwek": "10 g",
+          "Sok cytrynowy": "5 g"
+        }
+      },
+      {
+        "nazwa": "Sałatka z awokado, szpinakiem i pomarańczą",
+        "kcal": 567,
+        "waga": "480g",
+        "wartosci": {
+          "b": 12.39,
+          "t": 22.58,
+          "w": 85.54
+        },
+        "skladniki": {
+          "Pomarańcze": "200 g",
+          "Awokado": "70 g",
+          "Chleb żytni": "2 kromki (70 g)",
+          "Szpinak": "50 g",
+          "Suszone pomidory": "40 g",
+          "Ogórek": "40 g",
+          "Oliwa z oliwek": "1 łyżka (10 g)"
+        }
+      },
+      {
+        "nazwa": "Kanapka z pastą z makreli i z ogórkiem",
+        "kcal": 430,
+        "waga": "432g",
+        "wartosci": {
+          "b": 22.17,
+          "t": 11.84,
+          "w": 65.63
+        },
+        "skladniki": {
+          "Ogórek kiszony": "2 sztuki (120 g)",
+          "Chleb żytni": "3 kromki (105 g)",
+          "Papryka czerwona": "połowa sztuki (70 g)",
+          "Makrela wędzona": "połowa sztuki (60 g)",
+          "Cebula": "połowa sztuki (50 g)",
+          "Sałata": "3 liście (15 g)",
+          "Natka pietruszki": "2 łyżeczki (12 g)"
+        }
+      },
+      {
+        "nazwa": "Kanapka z kabanosem, hummusem i rzodkiewką",
+        "kcal": 513,
+        "waga": "285g",
+        "wartosci": {
+          "b": 18.03,
+          "t": 24.42,
+          "w": 62.97
+        },
+        "skladniki": {
+          "Chleb żytni ": "3x jedna kromka (105 g)",
+          "Rzodkiewka": "3x 2 sztuki (90 g)",
+          "Hummus naturalny": "3x 1 łyżka (60 g)",
+          "Kabanosy z kurczaka ": "3x pół kawałka (30 g)"
+        }
+      }
+    ]
+  },
+  "kolacja": {
+    "posilki": [
+      {
+        "nazwa": "Jednogarnkowe spaghetti ratatouille",
+        "kcal": 442,
+        "waga": "1058g",
+        "wartosci": {
+          "b": 22.02,
+          "t": 7.38,
+          "w": 80.06
+        },
+        "skladniki": {
+          "Cukinia": "1 duża cukinia (600 g)",
+          "Woda": "480 ml",
+          "Pomidory w puszce": "1 puszka (400 g)",
+          "Papryka czerwona ": "1 papryka (230 g)",
+          "Makaron spaghetti pełnoziarnisty": "150 g",
+          "Bakłażan": "1/2 bakłażana (120 g)",
+          "Cebula": "1/2 dużej cebuli (100 g)",
+          "Czosnek": "1 papryka (230 g)",
+          "Płatki drożdżowe": "2 łyżeczki (10 g)",
+          "Ocet balsamiczny": "łyżeczka (5 g)",
+          "Oliwa z oliwek": "łyżeczka (5 g)",
+          "Bazylia świeża": "łyżeczka (1 g)"
+        }
+      },
+      {
+        "nazwa": "Zapiekanka z grahamkami",
+        "kcal": 732,
+        "waga": "290g",
+        "wartosci": {
+          "b": 39.78,
+          "t": 21.44,
+          "w": 101.08
+        },
+        "skladniki": {
+          "Bułka grahamka": "180 g",
+          "Ser gouda tłusty": "60 g",
+          "Szynka z indyka": "40 g",
+          "Margaryna do pieczywa": "10 g"
+        }
+      },
+      {
+        "nazwa": "Faszerowane jajka z tuńczykiem",
+        "kcal": 201,
+        "waga": "162 g",
+        "wartosci": {
+          "b": 21.83,
+          "t": 12.05,
+          "w": 1.8
+        },
+        "skladniki": {
+          "Jaja kurze całe": "120 g",
+          "Tuńczyk w wodzie": "30 g",
+          "Natka pietruszki": "12 g"
+        }
+      },
+      {
+        "nazwa": "Sałatka z czerwoną fasolą",
+        "kcal": 352,
+        "waga": "437 g",
+        "wartosci": {
+          "b": 17.15,
+          "t": 7.68,
+          "w": 62.11
+        },
+        "skladniki": {
+          "Pomidory": "120 g",
+          "Czerwona fasola (konserwowa)": "120 g",
+          "Papryka czerwona": "70 g",
+          "Chleb żytni": "2 kromki (70 g)",
+          "Szpinak": "50 g",
+          "Oliwa z oliwek": "pół łyżki (5 g)",
+          "Ocet balsamiczny": "pół łyżeczki (2 g)"
+        }
+      },
+      {
+        "nazwa": "Nuggetsty z płatkami kukurydzianymi",
+        "kcal": 740,
+        "waga": "578g",
+        "wartosci": {
+          "b": 88.22,
+          "t": 18.04,
+          "w": 55.58
+        },
+        "skladniki": {
+          "Filet z piersi kurczaka": "300 g",
+          "Jaja kurze całe": "2x 1 sztuka M (112 g)",
+          "Jogurt naturalny 2%": "2x 2 łyżki (100 g)",
+          "Bułka tarta": "2x łyżki (32 g)",
+          "Płatki kukurydziane bezglutenowe": "2x 4 łyżki (24 g)",
+          "Czosnek": "2x 1 ząbek (4 g)",
+          "Sól biała": "2x szczypta (2 g)",
+          "Pieprz czarny": "2x szczypta (2 g)",
+          "Tymianek suszony": "2x szczypta (2 g)"
+        }
+      },
+      {
+        "nazwa": "Mus z jabłek z cynamonem",
+        "kcal": 666,
+        "waga": "696g",
+        "wartosci": {
+          "b": 10.29,
+          "t": 29.25,
+          "w": 99.45
+        },
+        "skladniki": {
+          "Jabłko": "450 g",
+          "Woda": "150 ml",
+          "Rodzynki": "45 g",
+          "Orzechy włoskie": "45 g",
+          "Cynamon": "6 g"
+        }
+      },
+      {
+        "nazwa": "Kurczak curry z fasolką szparagową",
+        "kcal": 727,
+        "waga": "520g",
+        "wartosci": {
+          "b": 47.67,
+          "t": 20.3,
+          "w": 96.82
+        },
+        "skladniki": {
+          "Fasola szparagowa": "250 g",
+          "Filet z piersi kurczaka": "150 g",
+          "Ryż brązowy": "100 g",
+          "Sezam": "10 g",
+          "Oliwa z oliwek": "10 g"
+        }
+      },
+      {
+        "nazwa": "Makaron w sosie jogurtowym",
+        "kcal": 728,
+        "waga": "525g",
+        "wartosci": {
+          "b": 41.18,
+          "t": 23.28,
+          "w": 91.75
+        },
+        "skladniki": {
+          "Jogurt naturalny 2%": "jeden kubek (180 g)",
+          "Pomidory koktajlowe": "6 (120 g)",
+          "Szynka wieprzowa, gotowana": "5 plasterków (100 g)",
+          "Makaron penne (pełnoziarnisty)": "80 g",
+          "Suszone pomidory": "2 sztuki (40 g)",
+          "Czosnek": "1 ząbek (5 g)"
+        }
+      },
+      {
+        "nazwa": "Warzywa z humusem chilli",
+        "kcal": 231,
+        "waga": "430g",
+        "wartosci": {
+          "b": 7.82,
+          "t": 10.38,
+          "w": 32.81
+        },
+        "skladniki": {
+          "Papryka czerwona": "1 sztuka (240 g)",
+          "Marchew": "3 sztuki (150 g)",
+          "Hummus z chilli": "40 g"
+        }
+      },
+      {
+        "nazwa": "Koktajl melonowy z imbirem",
+        "kcal": 522,
+        "waga": "1074g",
+        "wartosci": {
+          "b": 6.27,
+          "t": 9.78,
+          "w": 107.13
+        },
+        "skladniki": {
+          "Mleko ryżowe": "3x 1 szklanka (750 ml)",
+          "Melon": "300 g",
+          "Amarantus ekspandowany": "3x 2 łyżki (18 g)",
+          "Imbir": "6 g"
+        }
+      },
+      {
+        "nazwa": "Sałatka z kalafiora z gruszkami",
+        "kcal": 207,
+        "waga": "375",
+        "wartosci": {
+          "b": 7.61,
+          "t": 6.99,
+          "w": 32.11
+        },
+        "skladniki": {
+          "Kalafior": "150 g",
+          "Gruszka": "125 g",
+          "Jogurt naturalny 2%": "70 g",
+          "Sok pomarańczowy": "2 łyzki (20 g)",
+          "Rzeżucha": "5 g",
+          "Oliwa z oliwek": "1 łyżeczka (5 g)"
+        }
+      },
+      {
+        "nazwa": "Kanapki z szynką z indyka, sałatą i pomidorami",
+        "kcal": 223,
+        "waga": "198g",
+        "wartosci": {
+          "b": 10.19,
+          "t": 4.34,
+          "w": 39.67
+        },
+        "skladniki": {
+          "Pomidory": "połowa sztuki (85 g)",
+          "Chleb żytni": "2 kromki (70 g)",
+          "Szynka z indyka": "2 plasterki (30 g)",
+          "Sałata": "2 liście (10 g)",
+          "Masło": "3 g"
+        }
+      },
+      {
+        "nazwa": "Zupa z fasoli krem",
+        "kcal": 473,
+        "waga": "359g",
+        "wartosci": {
+          "b": 22.81,
+          "t": 10.97,
+          "w": 80.04
+        },
+        "skladniki": {
+          "Cebula": "1 średnia cebula (90 g)",
+          "Fasola biała, nasiona suche": "80 g",
+          "Ziemniaki": "1 szt. średniej wielkości (60 g)",
+          "Śmietana 18% ": "50 g",
+          "Pietruszka, korzeń": "ok. pół pietruszki (30 g)",
+          "Seler, korzeń": "około 1/4 małego korzenia (20 g)",
+          "Marchew": "ok. pół marchwi (20 g)",
+          "Suszone pomidory": "jeden plaster (7 g)",
+          "Czosnek": "pół ząbka (2 g)"
+        }
+      }
+    ]
+  }
+}

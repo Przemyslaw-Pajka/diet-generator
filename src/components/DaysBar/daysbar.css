@@ -1,0 +1,43 @@
+.daysbar {
+  list-style-type: none;
+  border-bottom: 1px solid #d3d3d3;
+  padding: 10px 0;
+}
+.daysbar li {
+  display: inline-block;
+  margin: 10px 0px;
+}
+.daysbar li a {
+  color: #000;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid transparent;
+}
+.daysbar li a:focus {
+  color: #0000ff;
+}
+.daysbar li a:hover {
+  background-color: #00008b;
+  color: #fff;
+}
+.daysbar li a.active {
+  color: #0000ff;
+  border: 1px solid #d3d3d3;
+  border-bottom: 1px solid #fff;
+  background-color: #0000ff;
+  color: #fff;
+}
+
+@media screen and (min-width: 600px) {
+  .daysbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  .daysbar li {
+    margin: 0;
+  }
+  .daysbar li a.active {
+    background-color: transparent;
+    color: #0000ff;
+  }
+}

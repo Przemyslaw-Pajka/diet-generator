@@ -1,0 +1,10 @@
+export { default as Cockpit } from "./Cockpit/Cockpit";
+export { default as Circular } from "./Cockpit/Circular/Circular";
+export { default as Error404 } from "./Cockpit/Error404/Error404";
+export { default as GenerateDietContainer } from "./Cockpit/GenerateDietContainer/GenerateDietContainer";
+export { default as WrongUrl } from "./Cockpit/WrongUrl/WrongUrl";
+export { default as DailyMealList } from "./DailyMealList/DailyMealList";
+export { default as DaysBar } from "./DaysBar/DaysBar";
+export { default as Header } from "./Header/Header";
+export { default as Modal } from "./Modal/Modal";
+export { default as Routes } from "./Routes/Routes";
