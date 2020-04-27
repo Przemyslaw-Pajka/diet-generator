@@ -1,10 +1,13 @@
 import React, { useRef } from "react";
 import { Link } from "react-router-dom";
+import styles from "./generateDietContainer.css";
 
 const GenerateDietContainer = (props) => {
   return (
     <div className="generateDietContainer">
-      <Link to="/home/kreator/dzien/poniedzialek?dzien=poniedzialek">
+      <Link
+        className="generateDietLink"
+        to="/home/kreator/dzien/poniedzialek?dzien=poniedzialek">
         <button
           disabled={props.isError}
           className="generateDietBtn"

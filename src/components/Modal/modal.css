@@ -1,83 +1,89 @@
 .modal {
-    position: fixed;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(1, 167, 159, 0.7);
-    top: 0;
-    left: 0;
-    border: 1px solid #000;
-    justify-content: center;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    z-index: 99;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(1, 167, 159, 0.7);
+  top: 0;
+  left: 0;
+  border: 1px solid #000;
+  justify-content: center;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  z-index: 99;
 }
 .exitModal {
-    display: block;
-    width: max-content;
-    padding: 12px;
-    background: #ff0000;
-    border: none;
-    color: #fff;
-    cursor: pointer;
-    font-weight: 700;
-    position: absolute;
-    right: 0;
+  display: block;
+  width: max-content;
+  padding: 12px;
+  background: #ff0000;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 700;
+  position: absolute;
+  right: 0;
 }
 .exitModal:focus {
-    outline: 3px solid #00008b;
+  outline: 3px solid #00008b;
 }
 .mealsSuggestionsList {
-    list-style-type: none;
-    width: 50%;
-    background: #fff;
-    text-align: center;
-    padding: 0px;
-    position: absolute;
-    margin: 10% 0px;
+  list-style-type: none;
+  width: 50%;
+  background: #fff;
+  text-align: center;
+  padding: 0px;
+  position: absolute;
+  margin: 10% 0px;
 }
 .mealSuggestion {
-    padding: 15px 40px;
-    border-bottom: 1px solid lightgray;
-    display: flex;
-    flex-direction: column;
+  padding: 15px 40px;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
 }
 .mealSuggestionName {
-    font-weight: 500;
+  font-weight: 500;
 }
 .mealSuggestionsNutrientsList {
-    padding: 14px 0 6px;
-    list-style-type: none;
-    display: flex;
-    justify-content: flex-end;
+  padding: 14px 0 6px;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
 }
 .mealSuggestionsNutrient {
-    background-color:  #5f5e5e;
-    padding: 2px 8px;
-    margin-right: 4px;
-    font-size: 12px;
-    color: #fff;
-    border-radius: 30px;
-    font-weight: 700;
+  background-color: #5f5e5e;
+  padding: 2px 8px;
+  margin-right: 4px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 30px;
+  font-weight: 700;
 }
 .selectMealBtn {
-    background-color: rgb(28, 73, 122);
-    color: #fff;
-    border: 0;
-    width: 100%;
-    margin: 0 auto;
-    padding: 12px 0;
-    cursor: pointer;
-    border-radius: 3px;
+  background-color: rgb(28, 73, 122);
+  color: #fff;
+  border: 0;
+  width: 100%;
+  margin: 0 auto;
+  padding: 12px 0;
+  cursor: pointer;
+  border-radius: 3px;
 }
 .selectMealBtn:focus {
-    outline: 3px solid #ff0000;
+  outline: 3px solid #ff0000;
 }
 @media screen and (max-width: 600px) {
-    .mealSuggestionsNutrientsList {
-        display: block;
-    }
-    .mealSuggestionsNutrient {
-        display: inline-block;
-    }
+  .mealSuggestionsNutrientsList {
+    display: block;
+  }
+  .mealSuggestionsNutrient {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 725px) {
+  .mealsSuggestionsList {
+    width: 70%;
+  }
 }
