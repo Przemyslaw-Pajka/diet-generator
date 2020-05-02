@@ -1,4 +1,4 @@
-import React, { useState, useEffect, Component, PureComponent } from "react";
+import React, { Component } from "react";
 import styles from "./dailyMealList.css";
 import MealItem from "./MealItem/MealItem";
 import DaySummary from "./DaySummary/DaySummary";

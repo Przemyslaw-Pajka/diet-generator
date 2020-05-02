@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/diet-generator/static/css/main.bd6d36b2.chunk.css",
-    "main.js": "/diet-generator/static/js/main.f776e946.chunk.js",
-    "main.js.map": "/diet-generator/static/js/main.f776e946.chunk.js.map",
+    "main.js": "/diet-generator/static/js/main.c5c8c2d5.chunk.js",
+    "main.js.map": "/diet-generator/static/js/main.c5c8c2d5.chunk.js.map",
     "runtime-main.js": "/diet-generator/static/js/runtime-main.88f7cfe8.js",
     "runtime-main.js.map": "/diet-generator/static/js/runtime-main.88f7cfe8.js.map",
-    "static/js/2.f9726655.chunk.js": "/diet-generator/static/js/2.f9726655.chunk.js",
-    "static/js/2.f9726655.chunk.js.map": "/diet-generator/static/js/2.f9726655.chunk.js.map",
+    "static/js/2.9fa49445.chunk.js": "/diet-generator/static/js/2.9fa49445.chunk.js",
+    "static/js/2.9fa49445.chunk.js.map": "/diet-generator/static/js/2.9fa49445.chunk.js.map",
     "index.html": "/diet-generator/index.html",
-    "precache-manifest.5201b12f3281fa6f62b74e78e47092fc.js": "/diet-generator/precache-manifest.5201b12f3281fa6f62b74e78e47092fc.js",
+    "precache-manifest.7bab5744912e4161c896bb9e0cc03468.js": "/diet-generator/precache-manifest.7bab5744912e4161c896bb9e0cc03468.js",
     "service-worker.js": "/diet-generator/service-worker.js",
     "static/css/main.bd6d36b2.chunk.css.map": "/diet-generator/static/css/main.bd6d36b2.chunk.css.map",
-    "static/js/2.f9726655.chunk.js.LICENSE.txt": "/diet-generator/static/js/2.f9726655.chunk.js.LICENSE.txt"
+    "static/js/2.9fa49445.chunk.js.LICENSE.txt": "/diet-generator/static/js/2.9fa49445.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88f7cfe8.js",
-    "static/js/2.f9726655.chunk.js",
+    "static/js/2.9fa49445.chunk.js",
     "static/css/main.bd6d36b2.chunk.css",
-    "static/js/main.f776e946.chunk.js"
+    "static/js/main.c5c8c2d5.chunk.js"
   ]
 }
