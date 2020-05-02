@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Redirect, Route } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Cockpit from "./components/Cockpit/Cockpit";
 import { MealStatesProvider } from "./store/MealStates";
-import createHistory from "history/createBrowserHistory";
+import { createBrowserHistory as createHistory } from "history";
 
 const history = createHistory({
   basename: process.env.PUBLIC_URL,
