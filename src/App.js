@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Redirect, Route } from "react-router-dom";
+import { Router, Redirect, Route } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Cockpit from "./components/Cockpit/Cockpit";
 import { MealStatesProvider } from "./store/MealStates";
